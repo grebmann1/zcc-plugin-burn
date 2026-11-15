@@ -1,0 +1,25 @@
+{
+  "id": "burn",
+  "repo": "https://github.com/kalindudc/burn.git",
+  "subdir": "",
+  "catalogueSource": {
+    "url": "https://github.com/kalindudc/burn.git",
+    "range": ">=0.4.0 <1.0.0"
+  },
+  "errors": [],
+  "head": "f51a739b54aba1eef8cfcee5879348124b33fab6",
+  "files": [
+    [
+      "package.json",
+      2318
+    ],
+    [
+      "README.md",
+      4375
+    ],
+    [
+      "LICENSE",
+      "HTTP Error 404: Not Found"
+    ]
+  ]
+}
